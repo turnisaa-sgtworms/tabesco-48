@@ -46148,13 +46148,13 @@
 		(uuid "e3e618bc-c345-41d3-8316-f7c599ad45d3")
 	)
 	(gr_text "tabesco-48"
-		(at 155.067 100.457 0)
+		(at 232.918 36.576 0)
 		(layer "F.SilkS")
 		(uuid "076d2dec-8d9f-439a-9fcf-b03e96c62f5f")
 		(effects
 			(font
-				(size 75 21)
-				(thickness 5.25)
+				(size 10 3)
+				(thickness 0.75)
 				(bold yes)
 			)
 		)
