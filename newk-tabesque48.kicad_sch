@@ -3678,13 +3678,13 @@
 		(uuid "11e9b828-c4f5-46ad-915e-1bca6397c46c")
 	)
 	(label "col1"
-		(at 24.13 49.53 180)
+		(at 49.53 21.59 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "1c611db2-5fec-4b57-ba34-b844dd0f2c57")
 	)
@@ -3722,7 +3722,7 @@
 		(uuid "2bf56bbd-50bb-44c6-a662-f8e8e33b8956")
 	)
 	(label "row0"
-		(at 24.13 44.45 180)
+		(at 24.13 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3731,17 +3731,6 @@
 			(justify right bottom)
 		)
 		(uuid "2e6ab809-fc75-45fd-b911-b36383b7141e")
-	)
-	(label "col_tmo"
-		(at 24.13 31.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3946e0cb-5b3a-44e7-be40-ec8dded4ed9a")
 	)
 	(label "row0"
 		(at 19.05 71.12 180)
@@ -3788,7 +3777,7 @@
 		(uuid "47f09b0a-5eb8-4a17-8b7d-bc1055117874")
 	)
 	(label "row3"
-		(at 24.13 36.83 180)
+		(at 24.13 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3887,7 +3876,7 @@
 		(uuid "8bf0be9b-7c31-4460-9514-b098f370d5ad")
 	)
 	(label "row2"
-		(at 24.13 39.37 180)
+		(at 24.13 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3898,7 +3887,7 @@
 		(uuid "97b1a38a-4df0-43c4-8fe9-e6692222dffa")
 	)
 	(label "col0"
-		(at 24.13 46.99 180)
+		(at 24.13 21.59 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3942,7 +3931,7 @@
 		(uuid "f20c552f-9cf3-4e8a-ae5a-4350f1e3efea")
 	)
 	(label "row4"
-		(at 24.13 34.29 180)
+		(at 24.13 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
