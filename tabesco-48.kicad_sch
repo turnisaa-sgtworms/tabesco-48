@@ -1199,22 +1199,10 @@
 		)
 	)
 	(junction
-		(at 66.04 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02c6498c-bbd2-457f-b75d-c5bec4b21aae")
-	)
-	(junction
 		(at 88.9 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0385bcd5-234b-49ce-a0bb-750b2ec73875")
-	)
-	(junction
-		(at 85.09 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "062a5834-ece2-45ee-a123-c0418dcaef6a")
 	)
 	(junction
 		(at 77.47 82.55)
@@ -1227,12 +1215,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0ab47a4b-0188-43fe-8664-35a81a6cb192")
-	)
-	(junction
-		(at 77.47 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0b8eb1bd-4c41-4b23-8ae8-14e7923ccefe")
 	)
 	(junction
 		(at 66.04 82.55)
@@ -1259,22 +1241,10 @@
 		(uuid "0ea9d350-34fe-4d94-91c0-1e720cc7f793")
 	)
 	(junction
-		(at 96.52 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "144a09ee-fa8f-4cda-a536-75b0256a214e")
-	)
-	(junction
 		(at 62.23 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17746b0f-bd83-4193-9e3a-165abc5f6a41")
-	)
-	(junction
-		(at 119.38 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "189a0784-6916-45bc-92aa-635af563ecb9")
 	)
 	(junction
 		(at 27.94 68.58)
@@ -1283,52 +1253,16 @@
 		(uuid "1a72dc33-6f59-4a9c-9747-e25931ba0f31")
 	)
 	(junction
-		(at 43.18 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1bd34521-0caf-4c1e-9fe1-db3c2edf323d")
-	)
-	(junction
-		(at 119.38 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d7f9757-740b-4cb9-a377-7622746f5be6")
-	)
-	(junction
 		(at 107.95 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "225e053b-d080-49c8-9688-1b8dbed2ecc5")
 	)
 	(junction
-		(at 96.52 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26084891-b8da-46a5-b253-f33c88724e72")
-	)
-	(junction
 		(at 100.33 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "298de5ca-0f2c-4bb3-95a6-5f33162a0006")
-	)
-	(junction
-		(at 73.66 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ed7b82e-8a57-4d92-a462-6d4288abf266")
-	)
-	(junction
-		(at 39.37 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3025041e-3e7d-4ee4-b4e5-ba19d9f364cd")
-	)
-	(junction
-		(at 77.47 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3244ae43-d30c-4f7f-8a13-2aea03c42188")
 	)
 	(junction
 		(at 50.8 80.01)
@@ -1343,34 +1277,16 @@
 		(uuid "34f9db08-677e-4481-8229-537f55c61a3e")
 	)
 	(junction
-		(at 27.94 102.87)
+		(at 31.75 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3b38f57f-8455-4884-bb05-81d760fceb9b")
-	)
-	(junction
-		(at 100.33 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "40e0fbd4-f530-4637-bb84-11c696e6cd54")
-	)
-	(junction
-		(at 85.09 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "41b6238d-3ffd-443b-9202-e987359b63a7")
+		(uuid "3cc634fd-fd67-455d-80aa-79649dc4c1e8")
 	)
 	(junction
 		(at 111.76 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b3bfc5d-5098-4bed-8593-da3f8ae38352")
-	)
-	(junction
-		(at 62.23 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "56c2b33b-4053-4150-bdaa-df1577709fd0")
 	)
 	(junction
 		(at 66.04 71.12)
@@ -1397,40 +1313,22 @@
 		(uuid "66800e31-e493-4153-9d7b-72ee359734ec")
 	)
 	(junction
-		(at 39.37 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7219208e-1edd-41fe-94fc-4f668985f096")
-	)
-	(junction
-		(at 54.61 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "768a3c98-a923-433e-8b3e-bef586b9d080")
-	)
-	(junction
-		(at 62.23 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "77241b3f-d348-40e3-9cf6-6608da2d7d25")
-	)
-	(junction
 		(at 119.38 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7898c217-0b48-4ef2-887d-ee100de272a9")
 	)
 	(junction
-		(at 50.8 102.87)
+		(at 27.94 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7b2adfba-79fb-4cf9-9a76-7af7804a92af")
+		(uuid "79e03fe8-9642-4372-8db6-7d530d797c65")
 	)
 	(junction
 		(at 20.32 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "81e6d23b-2ab1-4978-9d47-2383e35f07cd")
+		(uuid "888bf54e-ec51-4cf2-8e32-7302c1e39879")
 	)
 	(junction
 		(at 43.18 93.98)
@@ -1445,22 +1343,10 @@
 		(uuid "8b2365f0-4eee-4bf8-ab6a-d2b8ca905f54")
 	)
 	(junction
-		(at 50.8 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c76fbdf-9c6c-441b-a405-d061d2a30efd")
-	)
-	(junction
 		(at 107.95 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8cce4dc2-66e9-4bcb-b41a-e2b0372a7133")
-	)
-	(junction
-		(at 20.32 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d51bcad-d26f-4096-85a2-e5c9829e5789")
 	)
 	(junction
 		(at 88.9 71.12)
@@ -1493,22 +1379,10 @@
 		(uuid "9673e14f-441e-4cb7-ab2b-ba611d32fb50")
 	)
 	(junction
-		(at 31.75 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9fc0052d-26b0-4dc7-bdd6-5f64206d02d2")
-	)
-	(junction
 		(at 62.23 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a003cba9-b092-4a13-a193-47e241d0f331")
-	)
-	(junction
-		(at 27.94 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a8ac6dcc-569f-4470-8bb8-34b677069406")
 	)
 	(junction
 		(at 85.09 80.01)
@@ -1517,40 +1391,16 @@
 		(uuid "af672617-e0c9-4c81-a70c-01e21fcc4378")
 	)
 	(junction
-		(at 43.18 105.41)
+		(at 107.95 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b04a1bd8-795d-466e-900d-598fe171ea57")
-	)
-	(junction
-		(at 107.95 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b11aea5f-4036-4c72-b625-aaaae4c9c527")
-	)
-	(junction
-		(at 111.76 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb0f502b-72eb-451d-9980-af29c97df72b")
+		(uuid "bbd31385-8ec6-4d2c-8e48-15c4a6ccc34a")
 	)
 	(junction
 		(at 20.32 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbf43540-35fa-42f1-b241-2424ab4ec339")
-	)
-	(junction
-		(at 111.76 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd180b7f-7dc9-489e-b166-09652676ef34")
-	)
-	(junction
-		(at 130.81 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c18c14ea-732a-4d5f-8fa4-e093dbc63123")
 	)
 	(junction
 		(at 20.32 93.98)
@@ -1577,16 +1427,10 @@
 		(uuid "cb7a60c8-54d4-4ee1-84d1-3d1493818643")
 	)
 	(junction
-		(at 54.61 105.41)
+		(at 39.37 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cbc4cba7-8fe9-4e21-9e70-f2a61ca94c08")
-	)
-	(junction
-		(at 88.9 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cedabc2d-121a-4f87-a362-898a275205aa")
+		(uuid "cd5779c4-a22c-46ce-bc69-86708ef77d80")
 	)
 	(junction
 		(at 31.75 93.98)
@@ -1595,28 +1439,10 @@
 		(uuid "cf6f3442-8696-4403-958f-9d3ffacddbff")
 	)
 	(junction
-		(at 31.75 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d29fd966-3a2c-4a60-baa6-c9ffb16f9c00")
-	)
-	(junction
 		(at 39.37 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2b921f5-6c10-4026-b967-5e25a14055eb")
-	)
-	(junction
-		(at 73.66 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da47f03f-d902-43ee-ad48-7b210e757ef7")
-	)
-	(junction
-		(at 66.04 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ddc6ecf9-dc22-46f7-bcb0-c09e40667d63")
 	)
 	(junction
 		(at 73.66 68.58)
@@ -1637,12 +1463,6 @@
 		(uuid "e9762ba1-5e1f-453c-81d1-04d1a456eaad")
 	)
 	(junction
-		(at 88.9 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9b9674e-ec98-4afd-877b-802179084ab2")
-	)
-	(junction
 		(at 88.9 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1661,48 +1481,10 @@
 		(uuid "eb77bd05-3754-4299-b5c4-ed9af7a26c3d")
 	)
 	(junction
-		(at 107.95 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f591d2b1-459a-4e2f-9570-77132a378f89")
-	)
-	(junction
-		(at 100.33 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fcebf2c5-8e00-49db-9597-fe3213ab1a3f")
-	)
-	(junction
 		(at 54.61 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fed1b34e-3dd2-49b2-9cf2-859ee49fa9b9")
-	)
-	(junction
-		(at 130.81 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ffd4d116-6bc3-4981-96a2-8b9b5a5c5c4e")
-	)
-	(wire
-		(pts
-			(xy 96.52 91.44) (xy 96.52 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01a24bac-3eff-458d-b93f-ff38a3d40588")
-	)
-	(wire
-		(pts
-			(xy 100.33 100.33) (xy 100.33 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "049d3080-38a5-4d22-808e-92f1e175583c")
 	)
 	(wire
 		(pts
@@ -1736,16 +1518,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 91.44) (xy 62.23 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "088aa364-0f3b-4e4a-86ed-1d276bfe1f94")
-	)
-	(wire
-		(pts
 			(xy 43.18 63.5) (xy 45.72 63.5)
 		)
 		(stroke
@@ -1753,6 +1525,16 @@
 			(type default)
 		)
 		(uuid "09a37178-d6ec-4447-b226-eb6bb5c142fd")
+	)
+	(wire
+		(pts
+			(xy 100.33 100.33) (xy 100.33 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bbbbe26-7f41-4728-8ae6-a854a303092a")
 	)
 	(wire
 		(pts
@@ -1766,6 +1548,16 @@
 	)
 	(wire
 		(pts
+			(xy 20.32 105.41) (xy 31.75 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c251aaf-8e03-4e66-9508-09aeb4aa0eda")
+	)
+	(wire
+		(pts
 			(xy 54.61 77.47) (xy 54.61 74.93)
 		)
 		(stroke
@@ -1773,16 +1565,6 @@
 			(type default)
 		)
 		(uuid "0e661453-6e83-4d07-b2a5-d961d8c6f33c")
-	)
-	(wire
-		(pts
-			(xy 123.19 74.93) (xy 125.73 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f36337f-6cd3-4057-b1ed-bb9190681924")
 	)
 	(wire
 		(pts
@@ -1826,36 +1608,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 109.22) (xy 102.87 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "181e54f7-0674-48e7-adc8-4fd2d1ea7223")
-	)
-	(wire
-		(pts
-			(xy 31.75 116.84) (xy 43.18 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "182cdc5c-378e-42ef-985a-33d449fe0d71")
-	)
-	(wire
-		(pts
-			(xy 77.47 100.33) (xy 77.47 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "182ea8e3-17a6-4833-b7c9-eb18ed9fac3c")
-	)
-	(wire
-		(pts
 			(xy 50.8 62.23) (xy 50.8 68.58)
 		)
 		(stroke
@@ -1863,36 +1615,6 @@
 			(type default)
 		)
 		(uuid "1935ef82-b199-4d2e-aac9-405754ac42c6")
-	)
-	(wire
-		(pts
-			(xy 62.23 102.87) (xy 62.23 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bd461e1-51ce-4bf6-a337-9537b22193ee")
-	)
-	(wire
-		(pts
-			(xy 43.18 105.41) (xy 54.61 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d651cba-f25c-475f-8ba9-e35233656239")
-	)
-	(wire
-		(pts
-			(xy 85.09 91.44) (xy 85.09 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e4df638-384c-41dc-b1b2-2d67365034fb")
 	)
 	(wire
 		(pts
@@ -1906,23 +1628,13 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 111.76) (xy 54.61 109.22)
+			(xy 27.94 91.44) (xy 27.94 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1f990e21-4c68-4a05-918a-04a058cfff67")
-	)
-	(wire
-		(pts
-			(xy 50.8 102.87) (xy 50.8 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21831fa5-a87d-4437-ba18-a2fe19b179bc")
+		(uuid "2183bc94-154f-4cb5-89bd-3dda3d025bde")
 	)
 	(wire
 		(pts
@@ -1946,16 +1658,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 105.41) (xy 20.32 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2489e746-464a-4451-b1bb-ce999372f278")
-	)
-	(wire
-		(pts
 			(xy 85.09 62.23) (xy 85.09 68.58)
 		)
 		(stroke
@@ -1976,16 +1678,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 109.22) (xy 80.01 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26458738-da32-44e5-bc63-3d9b4d8b5b61")
-	)
-	(wire
-		(pts
 			(xy 19.05 71.12) (xy 20.32 71.12)
 		)
 		(stroke
@@ -1993,16 +1685,6 @@
 			(type default)
 		)
 		(uuid "26562fd7-d799-4116-9fe5-02ba2767737e")
-	)
-	(wire
-		(pts
-			(xy 111.76 97.79) (xy 114.3 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2708a93e-ba74-434c-935b-a136a2b55f2b")
 	)
 	(wire
 		(pts
@@ -2076,13 +1758,13 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 109.22) (xy 45.72 109.22)
+			(xy 31.75 97.79) (xy 34.29 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "31239b59-6f92-4dee-99c7-d5e64f73ee70")
+		(uuid "300e11ba-4277-4441-9a7e-01f74e78296e")
 	)
 	(wire
 		(pts
@@ -2156,16 +1838,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 111.76) (xy 100.33 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4476f0cc-13f9-41e6-87be-a8754e5de795")
-	)
-	(wire
-		(pts
 			(xy 49.53 29.21) (xy 53.34 29.21)
 		)
 		(stroke
@@ -2186,6 +1858,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 91.44) (xy 39.37 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b512895-8aa6-45d1-bc43-7d04bf0f50ff")
+	)
+	(wire
+		(pts
 			(xy 111.76 74.93) (xy 114.3 74.93)
 		)
 		(stroke
@@ -2193,16 +1875,6 @@
 			(type default)
 		)
 		(uuid "4b877da1-6419-4d42-8420-8df46200743d")
-	)
-	(wire
-		(pts
-			(xy 43.18 100.33) (xy 43.18 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fce4e54-4acd-4104-9ea1-deca717890e5")
 	)
 	(wire
 		(pts
@@ -2226,36 +1898,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 100.33) (xy 88.9 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53050c83-c784-498c-a450-29afc253fcf9")
-	)
-	(wire
-		(pts
-			(xy 20.32 97.79) (xy 22.86 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "530e425f-fbb7-4e7b-bb3d-58b52fc2894a")
-	)
-	(wire
-		(pts
-			(xy 20.32 105.41) (xy 31.75 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5517a2ab-65bc-4acf-b425-863b9ace2399")
-	)
-	(wire
-		(pts
 			(xy 39.37 62.23) (xy 39.37 68.58)
 		)
 		(stroke
@@ -2266,13 +1908,13 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 111.76) (xy 43.18 109.22)
+			(xy 31.75 100.33) (xy 31.75 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5a9bbeab-ed88-4a3e-b12c-9e853699626e")
+		(uuid "5a888dd2-c511-488a-8669-8b3cdf8c0395")
 	)
 	(wire
 		(pts
@@ -2286,16 +1928,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 111.76) (xy 88.9 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e7ff6a0-5b36-4505-9462-03fd6b738b62")
-	)
-	(wire
-		(pts
 			(xy 77.47 93.98) (xy 88.9 93.98)
 		)
 		(stroke
@@ -2303,36 +1935,6 @@
 			(type default)
 		)
 		(uuid "5fe876d2-6ac1-4f29-a82d-438e4720b135")
-	)
-	(wire
-		(pts
-			(xy 85.09 102.87) (xy 85.09 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "605096b7-84f1-452d-90e8-75931d4ec2c4")
-	)
-	(wire
-		(pts
-			(xy 73.66 102.87) (xy 73.66 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "636362ee-4858-4f02-b7e7-4d97b8443587")
-	)
-	(wire
-		(pts
-			(xy 107.95 91.44) (xy 107.95 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "666f92fa-75b7-4640-ab89-c62fd02ce93a")
 	)
 	(wire
 		(pts
@@ -2353,16 +1955,6 @@
 			(type default)
 		)
 		(uuid "69defcc7-97bb-4b8f-9b72-75750204f296")
-	)
-	(wire
-		(pts
-			(xy 100.33 116.84) (xy 111.76 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bb763e8-07fc-4ccb-9279-771b82366139")
 	)
 	(wire
 		(pts
@@ -2406,16 +1998,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 80.01) (xy 130.81 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e97e8f3-5897-4483-a066-fb0a779dc728")
-	)
-	(wire
-		(pts
 			(xy 77.47 66.04) (xy 77.47 63.5)
 		)
 		(stroke
@@ -2423,26 +2005,6 @@
 			(type default)
 		)
 		(uuid "70466268-4760-4342-8752-99ba0db4d3b9")
-	)
-	(wire
-		(pts
-			(xy 66.04 109.22) (xy 68.58 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "728ef5ee-b176-4f5b-969a-e4d1c812d2a1")
-	)
-	(wire
-		(pts
-			(xy 111.76 105.41) (xy 123.19 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "731af430-e646-4f94-b902-97a9c4849bd1")
 	)
 	(wire
 		(pts
@@ -2456,16 +2018,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 102.87) (xy 107.95 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7484d1d4-fc3f-49db-a8dd-57b4f8948cfb")
-	)
-	(wire
-		(pts
 			(xy 49.53 24.13) (xy 53.34 24.13)
 		)
 		(stroke
@@ -2473,16 +2025,6 @@
 			(type default)
 		)
 		(uuid "755d7f73-3e99-48be-92ae-a4cd940f6c22")
-	)
-	(wire
-		(pts
-			(xy 66.04 116.84) (xy 77.47 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7634b439-b5c8-4892-93a0-99c7f6fb8ff4")
 	)
 	(wire
 		(pts
@@ -2506,36 +2048,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 111.76) (xy 66.04 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a3ae86d-96e4-4108-be9e-2b69acdee411")
-	)
-	(wire
-		(pts
-			(xy 31.75 97.79) (xy 34.29 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7abaf8a6-8f36-40b1-bf31-c9d5ca167b4f")
-	)
-	(wire
-		(pts
-			(xy 88.9 105.41) (xy 100.33 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cfbe4c6-0507-49b4-870f-7926cb8d6e10")
-	)
-	(wire
-		(pts
 			(xy 88.9 71.12) (xy 100.33 71.12)
 		)
 		(stroke
@@ -2546,16 +2058,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 109.22) (xy 91.44 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "804858a5-20b6-4366-bae2-80b37ccd00db")
-	)
-	(wire
-		(pts
 			(xy 111.76 66.04) (xy 111.76 63.5)
 		)
 		(stroke
@@ -2563,16 +2065,6 @@
 			(type default)
 		)
 		(uuid "80c9d1f6-2662-49f3-bdeb-7d6cc0aba33b")
-	)
-	(wire
-		(pts
-			(xy 119.38 102.87) (xy 119.38 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80e3caa1-87c4-4e52-a2fe-b054337c0938")
 	)
 	(wire
 		(pts
@@ -2593,16 +2085,6 @@
 			(type default)
 		)
 		(uuid "814d5c82-6c03-458a-ad1a-892ba45f7634")
-	)
-	(wire
-		(pts
-			(xy 31.75 111.76) (xy 31.75 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81829b77-7e93-4f5c-8069-885cb611a24f")
 	)
 	(wire
 		(pts
@@ -2636,13 +2118,13 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 111.76) (xy 20.32 109.22)
+			(xy 20.32 100.33) (xy 20.32 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "832cbcfb-fcb8-45da-85a6-6fbe1d7efe75")
+		(uuid "838aa377-18d3-43f9-a912-20723399c846")
 	)
 	(wire
 		(pts
@@ -2676,36 +2158,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 97.79) (xy 102.87 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "896dc794-a7f1-4450-99cb-c9d59c478134")
-	)
-	(wire
-		(pts
-			(xy 54.61 100.33) (xy 54.61 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "898ff227-40ac-4316-a926-e5c9f5d3f879")
-	)
-	(wire
-		(pts
-			(xy 111.76 82.55) (xy 123.19 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c0c764d-4fb6-4ea2-8e60-bab1bddca20b")
-	)
-	(wire
-		(pts
 			(xy 31.75 88.9) (xy 31.75 86.36)
 		)
 		(stroke
@@ -2713,26 +2165,6 @@
 			(type default)
 		)
 		(uuid "8e0bbde9-f122-427a-a3b4-d7d4d95de25e")
-	)
-	(wire
-		(pts
-			(xy 31.75 100.33) (xy 31.75 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e0f9d30-dc80-4d05-a538-8d14d7d40a9a")
-	)
-	(wire
-		(pts
-			(xy 19.05 116.84) (xy 20.32 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e377423-59bd-4b99-a24c-75bc0f141366")
 	)
 	(wire
 		(pts
@@ -2786,13 +2218,13 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 111.76) (xy 77.47 109.22)
+			(xy 107.95 91.44) (xy 107.95 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "926e3c9d-7f5a-4524-bc7c-e8fa648fc8a3")
+		(uuid "92df3a99-4191-4247-8a95-bac5e7cf378c")
 	)
 	(wire
 		(pts
@@ -2836,16 +2268,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 105.41) (xy 77.47 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1e315fe-ae64-4f25-8d06-6366341782dc")
-	)
-	(wire
-		(pts
 			(xy 31.75 74.93) (xy 34.29 74.93)
 		)
 		(stroke
@@ -2853,16 +2275,6 @@
 			(type default)
 		)
 		(uuid "a37a2620-b8ce-4fbb-bfcd-694d129b7d98")
-	)
-	(wire
-		(pts
-			(xy 54.61 109.22) (xy 57.15 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4c8104a-8f6b-4ca8-8661-8a2200f9ee88")
 	)
 	(wire
 		(pts
@@ -2876,26 +2288,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 68.58) (xy 130.81 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7ea927c-e06d-4bbf-8d18-719c7820492f")
-	)
-	(wire
-		(pts
-			(xy 77.47 116.84) (xy 88.9 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a90c8390-e480-476c-bbdf-c521755e5402")
-	)
-	(wire
-		(pts
 			(xy 85.09 80.01) (xy 85.09 91.44)
 		)
 		(stroke
@@ -2903,16 +2295,6 @@
 			(type default)
 		)
 		(uuid "ae45f93b-4e0c-428b-99eb-45201b936166")
-	)
-	(wire
-		(pts
-			(xy 111.76 109.22) (xy 114.3 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b060782c-822f-458c-9188-af058bd73d49")
 	)
 	(wire
 		(pts
@@ -2943,16 +2325,6 @@
 			(type default)
 		)
 		(uuid "b0ecf0af-3a18-4315-8e2b-1871c7526791")
-	)
-	(wire
-		(pts
-			(xy 73.66 91.44) (xy 73.66 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b145ed6b-1c04-4ea9-9e91-92def13b731a")
 	)
 	(wire
 		(pts
@@ -3026,16 +2398,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 97.79) (xy 125.73 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb5e953a-d9bf-4793-95fd-ee12c4316489")
-	)
-	(wire
-		(pts
 			(xy 31.75 77.47) (xy 31.75 74.93)
 		)
 		(stroke
@@ -3053,26 +2415,6 @@
 			(type default)
 		)
 		(uuid "bd0533ae-7595-4061-a166-0ee087d1ffbe")
-	)
-	(wire
-		(pts
-			(xy 100.33 105.41) (xy 111.76 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd616a88-6a46-4377-8ac4-2909c7767707")
-	)
-	(wire
-		(pts
-			(xy 66.04 100.33) (xy 66.04 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be307856-245b-4ac0-bde7-37dc386cb5e4")
 	)
 	(wire
 		(pts
@@ -3096,26 +2438,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 77.47) (xy 123.19 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c14432df-1c82-4261-8240-b6498f6bce94")
-	)
-	(wire
-		(pts
-			(xy 54.61 105.41) (xy 66.04 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c1ccfe1b-e883-4ee7-a4bc-2a6671e6f8df")
-	)
-	(wire
-		(pts
 			(xy 77.47 71.12) (xy 88.9 71.12)
 		)
 		(stroke
@@ -3126,33 +2448,13 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 100.33) (xy 111.76 97.79)
+			(xy 20.32 97.79) (xy 22.86 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c2e6fb8a-313c-4eb6-be8f-7c2f65d288a1")
-	)
-	(wire
-		(pts
-			(xy 39.37 102.87) (xy 39.37 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c398cd22-8cd6-4b94-ba9a-f055a4ac84d4")
-	)
-	(wire
-		(pts
-			(xy 31.75 105.41) (xy 43.18 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3ac0eba-f542-4180-a906-4130fbd7dc9f")
+		(uuid "c3b1f82d-73a6-4dfd-921a-adfa4a82831d")
 	)
 	(wire
 		(pts
@@ -3176,36 +2478,6 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 91.44) (xy 119.38 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6f46ed7-a0b9-4b16-baab-051ac5fb2abd")
-	)
-	(wire
-		(pts
-			(xy 20.32 109.22) (xy 22.86 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8e5a739-1bd1-4d39-baee-9991a24b3051")
-	)
-	(wire
-		(pts
-			(xy 66.04 97.79) (xy 68.58 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9a8891f-c473-4bf1-8dc1-81a2512ae7e2")
-	)
-	(wire
-		(pts
 			(xy 20.32 29.21) (xy 24.13 29.21)
 		)
 		(stroke
@@ -3216,13 +2488,23 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 91.44) (xy 39.37 102.87)
+			(xy 19.05 105.41) (xy 20.32 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cc356284-9300-4fe9-9dff-87477eaa4ec0")
+		(uuid "cb513748-d6fa-4ade-b1ff-b6785be73b76")
+	)
+	(wire
+		(pts
+			(xy 100.33 97.79) (xy 102.87 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd27f109-06e9-4864-bac4-ccc10d646a53")
 	)
 	(wire
 		(pts
@@ -3236,16 +2518,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 91.44) (xy 27.94 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf3070ed-93e8-4541-a071-06bfd87220c6")
-	)
-	(wire
-		(pts
 			(xy 20.32 82.55) (xy 31.75 82.55)
 		)
 		(stroke
@@ -3253,36 +2525,6 @@
 			(type default)
 		)
 		(uuid "cf94ae96-6750-4b1d-afe5-793742038fa9")
-	)
-	(wire
-		(pts
-			(xy 77.47 105.41) (xy 88.9 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d045a2b9-b55e-44f5-b11b-b3396ca7ac77")
-	)
-	(wire
-		(pts
-			(xy 54.61 97.79) (xy 57.15 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1464985-5032-456b-a1e2-7ba54e8ce804")
-	)
-	(wire
-		(pts
-			(xy 20.32 100.33) (xy 20.32 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d202eef7-6328-4113-bbb8-f3563cbb1783")
 	)
 	(wire
 		(pts
@@ -3306,43 +2548,13 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 102.87) (xy 96.52 114.3)
+			(xy 31.75 105.41) (xy 100.33 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d4ee9160-24c0-4195-bce1-05b8c073717a")
-	)
-	(wire
-		(pts
-			(xy 88.9 97.79) (xy 91.44 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4f24288-d63d-4b0b-b128-f43658109982")
-	)
-	(wire
-		(pts
-			(xy 88.9 116.84) (xy 100.33 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5c27ac9-0d99-42db-95fa-e59e32a6377c")
-	)
-	(wire
-		(pts
-			(xy 111.76 111.76) (xy 111.76 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d85263dc-75fa-4937-b8d9-2d60bb2ba286")
+		(uuid "d5b27589-0281-4800-a743-8c60634a8a3a")
 	)
 	(wire
 		(pts
@@ -3373,46 +2585,6 @@
 			(type default)
 		)
 		(uuid "da46cf14-fd5d-4ebc-8788-53c5943ce4b7")
-	)
-	(wire
-		(pts
-			(xy 31.75 109.22) (xy 34.29 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcec7fda-6c9c-4ce2-aff0-c9cf33ef677c")
-	)
-	(wire
-		(pts
-			(xy 54.61 116.84) (xy 66.04 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd9ad4aa-1cfe-41d1-96d4-b5fa256aa977")
-	)
-	(wire
-		(pts
-			(xy 50.8 91.44) (xy 50.8 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df70d6ec-c99e-4136-914e-077cdf28f200")
-	)
-	(wire
-		(pts
-			(xy 43.18 97.79) (xy 45.72 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0b72b08-ba99-43d4-af5f-70f7912122e6")
 	)
 	(wire
 		(pts
@@ -3466,16 +2638,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 100.33) (xy 123.19 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9ad5636-2b3b-459b-8423-960595fbadd0")
-	)
-	(wire
-		(pts
 			(xy 73.66 68.58) (xy 73.66 80.01)
 		)
 		(stroke
@@ -3493,16 +2655,6 @@
 			(type default)
 		)
 		(uuid "eac7d958-bc5e-41ee-b9d3-3e2b198ac293")
-	)
-	(wire
-		(pts
-			(xy 27.94 102.87) (xy 27.94 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eafb0a8f-3993-48c0-b50c-2453cc4d83c0")
 	)
 	(wire
 		(pts
@@ -3543,16 +2695,6 @@
 			(type default)
 		)
 		(uuid "f09da161-7e7a-4d8c-9d98-56df6f1e9d28")
-	)
-	(wire
-		(pts
-			(xy 20.32 116.84) (xy 31.75 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f25c7d50-0885-4926-b105-eabc6f43c05d")
 	)
 	(wire
 		(pts
@@ -3616,16 +2758,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 97.79) (xy 80.01 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd649666-c207-4f80-9f98-5dd7a24075cc")
-	)
-	(wire
-		(pts
 			(xy 43.18 82.55) (xy 54.61 82.55)
 		)
 		(stroke
@@ -3633,16 +2765,6 @@
 			(type default)
 		)
 		(uuid "fde7d15a-1a56-4094-ba49-1fe4329fa351")
-	)
-	(wire
-		(pts
-			(xy 43.18 116.84) (xy 54.61 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff5812c8-702a-4504-a0f5-a3ff8da1bfec")
 	)
 	(label "col8"
 		(at 119.38 62.23 0)
@@ -3732,17 +2854,6 @@
 		)
 		(uuid "2e6ab809-fc75-45fd-b911-b36383b7141e")
 	)
-	(label "col_tmo"
-		(at 24.13 31.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3946e0cb-5b3a-44e7-be40-ec8dded4ed9a")
-	)
 	(label "row0"
 		(at 19.05 71.12 180)
 		(fields_autoplaced yes)
@@ -3764,17 +2875,6 @@
 			(justify left bottom)
 		)
 		(uuid "42f1b023-3c24-4486-98f5-ac0663b58e52")
-	)
-	(label "row3"
-		(at 19.05 105.41 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "44ee1cba-ebbc-4f3e-ac7d-fc2878767b9b")
 	)
 	(label "col4"
 		(at 73.66 62.23 0)
@@ -3908,6 +3008,17 @@
 		)
 		(uuid "ad331c2e-7ccb-4f1a-9813-e9eef1cb671e")
 	)
+	(label "row3"
+		(at 19.05 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d8c0bf6b-ef64-4ef8-a2ec-ab4945e8d71c")
+	)
 	(label "col3"
 		(at 62.23 62.23 0)
 		(fields_autoplaced yes)
@@ -3940,28 +3051,6 @@
 			(justify left bottom)
 		)
 		(uuid "f20c552f-9cf3-4e8a-ae5a-4350f1e3efea")
-	)
-	(label "row4"
-		(at 24.13 34.29 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f8fa290d-a30a-4676-830a-85b521a7f46b")
-	)
-	(label "row4"
-		(at 19.05 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fa9e8e2c-e553-41bc-93ac-233df45839a4")
 	)
 	(label "col5"
 		(at 85.09 62.23 0)
@@ -4100,6 +3189,94 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
+		(at 100.33 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "03f159c1-d033-482e-a060-b5395002705b")
+		(property "Reference" "D31"
+			(at 97.536 101.346 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_Small"
+			(at 102.87 104.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 100.33 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 100.33 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 100.33 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ccb6f7b2-6a62-4f7c-90ad-95fb351edd97")
+		)
+		(pin "1"
+			(uuid "542ebeea-ef65-4ce9-9e85-0029a25a30e3")
+		)
+		(instances
+			(project "tabesco-48"
+				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
+					(reference "D31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
 		(at 111.76 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4181,163 +3358,6 @@
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
 					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 54.61 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0682b229-7bb1-4115-be2b-8ee8b32de417")
-		(property "Reference" "D33"
-			(at 51.816 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 57.15 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 54.61 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 54.61 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 54.61 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 54.61 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "62074937-d328-40a8-8059-4565a6b29487")
-		)
-		(pin "1"
-			(uuid "8dc39a89-baa0-4e50-93ea-dbb3eb4931b2")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 25.4 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "080c85c5-23de-4f91-bdd6-2d10924ea37c")
-		(property "Reference" "MX30"
-			(at 25.4 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 25.4 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 25.4 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 25.4 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 25.4 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "30608cb1-aebe-4bc0-8f24-337cfba341bc")
-		)
-		(pin "1"
-			(uuid "c477e21f-5e6a-4544-bb30-2f3fa1ec1d3c")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX30")
 					(unit 1)
 				)
 			)
@@ -4528,7 +3548,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0cfe1784-d59d-4cba-bf1b-57bc53733774")
-		(property "Reference" "D23"
+		(property "Reference" "D22"
 			(at 40.386 89.916 90)
 			(effects
 				(font
@@ -4601,7 +3621,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D23")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -4617,8 +3637,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0eb498ad-09f1-43e3-8cf2-5356a2e1eb28")
-		(property "Reference" "MX27"
-			(at 93.98 81.28 0)
+		(property "Reference" "MX26"
+			(at 93.98 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4670,233 +3690,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 100.33 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f2043ea-84ee-405d-b53a-1377b2c5b098")
-		(property "Reference" "D47"
-			(at 97.536 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 102.87 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 100.33 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 100.33 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 100.33 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 100.33 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 100.33 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4a1de4b4-25b6-4e8f-bd90-ff78e14a9dfd")
-		)
-		(pin "1"
-			(uuid "10dfc5bf-c456-4636-aec9-3973263f8810")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 128.27 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "152369eb-0f45-4263-9358-1ad3c55cafad")
-		(property "Reference" "MX20"
-			(at 128.27 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 128.27 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 128.27 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 128.27 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 128.27 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c15cc05a-fc21-497c-8974-94fa6478dd93")
-		)
-		(pin "1"
-			(uuid "32ff273b-8a11-4bac-b821-61c4e08a595d")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 105.41 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "16194494-77e9-4cf5-a7d1-7275ad366d27")
-		(property "Reference" "MX47"
-			(at 105.41 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 105.41 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 105.41 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 105.41 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5aa92134-497f-4536-baf2-94dfb403e7b7")
-		)
-		(pin "1"
-			(uuid "60ed3fcd-ddf9-4214-bb14-aef15c92bea2")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX47")
+					(reference "MX26")
 					(unit 1)
 				)
 			)
@@ -4911,7 +3705,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "163525b0-a6b5-4b2d-8855-0b81044ffa9b")
-		(property "Reference" "D21"
+		(property "Reference" "D20"
 			(at 17.526 89.916 90)
 			(effects
 				(font
@@ -4984,7 +3778,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D21")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -5211,94 +4005,6 @@
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
 					(reference "MX6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 77.47 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2192275b-d11e-4b25-9446-133c694ef86c")
-		(property "Reference" "D45"
-			(at 74.676 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 80.01 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 77.47 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 77.47 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 77.47 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "68dbdc5a-c3ab-4372-939d-b771b703b1fc")
-		)
-		(pin "1"
-			(uuid "0c24091d-b684-42f2-b5d0-b0f4feaf2f27")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -5548,75 +4254,6 @@
 		)
 	)
 	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 71.12 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "29183670-790e-4b16-849b-a5b7b47fc1b8")
-		(property "Reference" "MX34"
-			(at 71.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 71.12 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 71.12 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 71.12 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3fd54e2d-38af-4d8f-8779-e85729ab094a")
-		)
-		(pin "1"
-			(uuid "77287319-f925-4151-828c-76d21063c8e9")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 88.9 91.44 90)
 		(unit 1)
@@ -5625,7 +4262,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2df37f7a-663e-41d0-ba95-8a8c32aa6db1")
-		(property "Reference" "D27"
+		(property "Reference" "D26"
 			(at 86.106 89.916 90)
 			(effects
 				(font
@@ -5698,95 +4335,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 111.76 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "30cc8b36-3b61-467b-84c4-27159fa18d5f")
-		(property "Reference" "D38"
-			(at 108.966 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 114.3 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 111.76 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 111.76 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 111.76 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ee204c93-0ce4-4d8c-8439-01e334a894a5")
-		)
-		(pin "1"
-			(uuid "9d9fccf4-2673-467e-af7f-bdf451ace81d")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D38")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -5801,7 +4350,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31cde56c-5cab-4f82-8b4c-0817d3ccfa4f")
-		(property "Reference" "D29"
+		(property "Reference" "D28"
 			(at 108.966 89.916 90)
 			(effects
 				(font
@@ -5874,145 +4423,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 71.12 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31d1f416-98e8-4f49-b3ea-38e8104202ff")
-		(property "Reference" "MX44"
-			(at 71.12 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 71.12 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 71.12 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 71.12 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "83791a71-7fde-4658-9266-9e08e3eda1b0")
-		)
-		(pin "1"
-			(uuid "53af27c6-fa2f-4c4d-b019-d9dbc781ad8f")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 82.55 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "33a745cd-b68f-4ba0-9fd2-03f50370caf3")
-		(property "Reference" "MX45"
-			(at 82.55 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 82.55 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 82.55 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 82.55 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8b1a0b6e-da56-4e30-a027-bc8210395ee0")
-		)
-		(pin "1"
-			(uuid "4cb8c621-2c6e-431c-a717-55fd01874e3c")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX45")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -6166,8 +4577,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "359a004c-81b0-4bca-950a-d465de33cbd0")
-		(property "Reference" "MX24"
-			(at 59.69 81.28 0)
+		(property "Reference" "MX23"
+			(at 59.69 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6219,42 +4630,41 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX24")
+					(reference "MX23")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 88.9 114.3 90)
+		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
+		(at 36.83 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3a9db992-1756-410d-bfa9-285c0233546d")
-		(property "Reference" "D46"
-			(at 86.106 112.776 90)
+		(fields_autoplaced yes)
+		(uuid "36321c2b-26f8-44e6-ab4d-03eaac8dc7c6")
+		(property "Reference" "MX30"
+			(at 36.83 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
-			(at 91.44 115.5699 90)
+		(property "Value" "MX_SW_HS"
+			(at 36.83 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 88.9 114.3 90)
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+			(at 36.83 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6263,7 +4673,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 114.3 90)
+			(at 36.83 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6271,26 +4681,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode, small symbol"
-			(at 88.9 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 88.9 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 114.3 0)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
+			(at 36.83 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6299,15 +4691,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d4c021ae-47a5-4612-adbf-3465a9821721")
+			(uuid "6430e993-6657-43f0-93da-9bde08547e85")
 		)
 		(pin "1"
-			(uuid "faac2cf6-38fc-4e17-84ae-fe282ad86071")
+			(uuid "ffd9ab58-2ce9-45a4-9cea-abf5773ec83d")
 		)
 		(instances
-			(project "newk-tabesque48"
+			(project "tabesco-48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D46")
+					(reference "MX30")
 					(unit 1)
 				)
 			)
@@ -6323,8 +4715,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d9b893b-2e63-4ced-914d-87affe278814")
-		(property "Reference" "MX29"
-			(at 116.84 81.28 0)
+		(property "Reference" "MX28"
+			(at 116.84 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6376,7 +4768,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX29")
+					(reference "MX28")
 					(unit 1)
 				)
 			)
@@ -6392,8 +4784,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4039051e-dba6-461e-9a5b-5ce4c532b21f")
-		(property "Reference" "MX22"
-			(at 36.83 81.28 0)
+		(property "Reference" "MX21"
+			(at 36.83 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6445,7 +4837,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX22")
+					(reference "MX21")
 					(unit 1)
 				)
 			)
@@ -6522,16 +4914,16 @@
 	)
 	(symbol
 		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 93.98 100.33 0)
+		(at 105.41 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4f566194-b459-4ea0-9206-853472ec289b")
-		(property "Reference" "MX36"
-			(at 93.98 92.71 0)
+		(uuid "42f1606e-5c2a-426b-93df-8161e2c046f6")
+		(property "Reference" "MX31"
+			(at 105.41 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6539,7 +4931,7 @@
 			)
 		)
 		(property "Value" "MX_SW_HS"
-			(at 93.98 95.25 0)
+			(at 105.41 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6548,7 +4940,7 @@
 			)
 		)
 		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 93.98 100.33 0)
+			(at 105.41 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6557,7 +4949,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 100.33 0)
+			(at 105.41 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6566,7 +4958,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 93.98 100.33 0)
+			(at 105.41 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6575,103 +4967,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "caddab93-0f5b-4bf7-bd5d-b53617ca2a71")
+			(uuid "c7a0e6fa-439d-44af-9089-2f8f8ef97d05")
 		)
 		(pin "1"
-			(uuid "959d0361-fa4a-4864-b1e3-c34d842a9003")
+			(uuid "22925389-71ff-499d-af02-a460aed57b1c")
 		)
 		(instances
-			(project "newk-tabesque48"
+			(project "tabesco-48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 111.76 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4ff90f2e-c78b-4a21-9945-656a1eecd101")
-		(property "Reference" "D48"
-			(at 108.966 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 114.3 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 111.76 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 111.76 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 111.76 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3d4823fc-98e4-4eb5-a59b-61744bad182a")
-		)
-		(pin "1"
-			(uuid "a8e94f71-2b61-4944-9145-34cca2211f6e")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D48")
+					(reference "MX31")
 					(unit 1)
 				)
 			)
@@ -6862,7 +5166,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5874198e-cf30-4740-abb9-08f1111537e5")
-		(property "Reference" "D28"
+		(property "Reference" "D27"
 			(at 97.536 89.916 90)
 			(effects
 				(font
@@ -6935,7 +5239,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D28")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -7011,94 +5315,6 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 54.61 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59b72094-592c-4367-9255-eabb206cd866")
-		(property "Reference" "D43"
-			(at 51.816 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 57.15 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 54.61 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 54.61 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 54.61 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c026d5d2-0754-46ea-b8ea-874ffa472097")
-		)
-		(pin "1"
-			(uuid "26a8382d-fbec-470f-adee-f9ef6bb7662c")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
 		(at 66.04 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7106,7 +5322,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5d6cb0fb-2247-483c-b940-1830935a0ba4")
-		(property "Reference" "D25"
+		(property "Reference" "D24"
 			(at 63.246 89.916 90)
 			(effects
 				(font
@@ -7179,271 +5395,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 77.47 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5de8dda1-ca1f-4c40-9141-3206d8f45d68")
-		(property "Reference" "D35"
-			(at 74.676 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 80.01 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 77.47 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 77.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 77.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f3b817c8-4e80-4068-98df-d090f0b95310")
-		)
-		(pin "1"
-			(uuid "dbd2df29-864c-411c-a468-fbfe8e57ca0c")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 20.32 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5dfec3fc-b03b-4c88-808d-1b7abd5dd324")
-		(property "Reference" "D30"
-			(at 17.526 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 22.86 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 20.32 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 20.32 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 20.32 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 20.32 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 20.32 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9f182bd4-d0b7-4c8c-aca2-e6ceed9a32d7")
-		)
-		(pin "1"
-			(uuid "e98a8034-b542-450f-9f74-682a1b459eff")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 66.04 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5e9e362c-d6b7-4b53-8784-96584f0a2c36")
-		(property "Reference" "D34"
-			(at 63.246 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 68.58 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 66.04 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 66.04 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 66.04 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 66.04 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 66.04 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c8e3714e-2c38-4d6e-8336-87cd7c40203f")
-		)
-		(pin "1"
-			(uuid "31720d56-52b6-46db-ac57-723301450947")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D34")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -7513,301 +5465,6 @@
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
 					(reference "MX16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 82.55 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "610955ba-2e69-4c77-9fc2-d67facb192ee")
-		(property "Reference" "MX35"
-			(at 82.55 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 82.55 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 82.55 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 82.55 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0c118864-4e7d-44c8-a5fd-721577e29992")
-		)
-		(pin "1"
-			(uuid "9f3ae1a0-9aaf-4087-8e6e-a593fbaad938")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 59.69 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "61707d7e-9843-47e4-b2a0-d6ecd6e834d2")
-		(property "Reference" "MX43"
-			(at 59.69 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 59.69 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 59.69 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 59.69 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "02eb3621-ee90-424b-b516-82e0493999bd")
-		)
-		(pin "1"
-			(uuid "5e557ad7-17c0-4030-b6d4-42745c8f4d2d")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 128.27 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6193ced7-2782-4004-a5b3-cb2cd5b795ef")
-		(property "Reference" "MX39"
-			(at 128.27 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 128.27 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 128.27 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 128.27 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 128.27 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9cd0b5c4-bfcd-4e15-a7db-977e5eb8d84e")
-		)
-		(pin "1"
-			(uuid "1388e74b-8a53-4d5b-957f-5f19a4a208d9")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 31.75 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "64ee5f43-4808-4b8b-b1ce-ead0f26797dd")
-		(property "Reference" "D41"
-			(at 28.956 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 34.29 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 31.75 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 31.75 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 31.75 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 31.75 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 31.75 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cf006b44-fb3f-4c7b-8250-a54d5657d300")
-		)
-		(pin "1"
-			(uuid "48e08503-38e4-4bc9-a585-d992bab197a7")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -7972,370 +5629,6 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 100.33 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6bfb1bed-973d-4c70-bf61-d3af829ec7f9")
-		(property "Reference" "D37"
-			(at 97.536 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 102.87 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 100.33 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 100.33 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 100.33 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 100.33 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 100.33 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "339c11f0-4169-4671-b191-07971503a1c5")
-		)
-		(pin "1"
-			(uuid "4c6db6ef-72e7-44c4-a40f-afa15bd27ff5")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 105.41 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6e234ccc-72cd-4e8d-9c99-979734e00c97")
-		(property "Reference" "MX37"
-			(at 105.41 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 105.41 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 105.41 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 105.41 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f47349b6-c010-4c56-bdb5-d15738e6fcb9")
-		)
-		(pin "1"
-			(uuid "3eae6936-939f-485f-be41-ed16a0fa9ff8")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 116.84 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72f7a8ad-c562-4dd6-b904-f002221d193d")
-		(property "Reference" "MX38"
-			(at 116.84 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 116.84 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 116.84 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 116.84 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ffe1bf54-465d-4f6d-81d4-6185a7573dc6")
-		)
-		(pin "1"
-			(uuid "cdadd7fd-2bfe-4f1f-8f4e-ac87f1c19835")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 25.4 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7341fe0c-89b1-4ac2-9865-00099c7f174d")
-		(property "Reference" "MX40"
-			(at 25.4 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 25.4 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 25.4 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 25.4 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 25.4 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "eb2e3b13-eddb-46fd-a153-143184747978")
-		)
-		(pin "1"
-			(uuid "ba80eca9-50fc-42fd-bdb1-3d49b06d215f")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 48.26 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "759f70de-f8dd-4197-9442-436e383e100b")
-		(property "Reference" "MX32"
-			(at 48.26 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 48.26 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 48.26 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 48.26 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 48.26 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "eb1cd2dc-1163-4fc9-bbe5-d9c4d56b89d6")
-		)
-		(pin "1"
-			(uuid "1ce1dcfb-f3ab-45e4-b2e2-b3855ead01b5")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
 		(at 88.9 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8423,94 +5716,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Small")
-		(at 31.75 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7aad5692-656b-4a97-ae16-c02b633da6e2")
-		(property "Reference" "D31"
-			(at 28.956 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 34.29 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 31.75 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 31.75 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 31.75 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 31.75 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 31.75 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "039f6769-c762-4e0e-b137-1f76abc3b60d")
-		)
-		(pin "1"
-			(uuid "c0bdd763-9065-4763-a4c3-63a489ee27f2")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
 		(at 116.84 77.47 0)
 		(unit 1)
@@ -8581,15 +5786,15 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 43.18 102.87 90)
+		(at 31.75 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7dc6bf13-0735-4503-a078-ec8562e16fd9")
-		(property "Reference" "D32"
-			(at 40.386 101.346 90)
+		(uuid "7de55e00-9042-40be-88a4-b666edc5a2f9")
+		(property "Reference" "D30"
+			(at 28.956 101.346 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8598,7 +5803,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 45.72 104.1399 90)
+			(at 34.29 104.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8608,7 +5813,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 43.18 102.87 90)
+			(at 31.75 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8617,7 +5822,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 102.87 90)
+			(at 31.75 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8626,7 +5831,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 43.18 102.87 0)
+			(at 31.75 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8635,7 +5840,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 43.18 102.87 0)
+			(at 31.75 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8644,7 +5849,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 43.18 102.87 0)
+			(at 31.75 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8653,103 +5858,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "60458e0e-af6b-40fb-a823-f3c2af95743e")
+			(uuid "d1804991-a76d-40da-b2c4-3516ddfdd1d0")
 		)
 		(pin "1"
-			(uuid "cd672b9a-78f9-4e00-adee-624e6aec45da")
+			(uuid "4fa0a6ae-f8b7-47e1-acf1-ed6fa6180853")
 		)
 		(instances
-			(project "newk-tabesque48"
+			(project "tabesco-48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 43.18 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7fa8ef69-eab4-4029-a2e8-4c91c112e954")
-		(property "Reference" "D42"
-			(at 40.386 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 45.72 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 43.18 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 43.18 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 43.18 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 43.18 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 43.18 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b1010fc9-4e5e-4595-bc64-e7bbbc9874cb")
-		)
-		(pin "1"
-			(uuid "7403afd1-f3a0-41c1-a1bb-5ed4fa8c9ef3")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D42")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -8765,8 +5882,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "843f5e42-232c-4e82-9e8c-8bd645ea650b")
-		(property "Reference" "MX23"
-			(at 48.26 81.28 0)
+		(property "Reference" "MX22"
+			(at 48.26 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8818,7 +5935,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX23")
+					(reference "MX22")
 					(unit 1)
 				)
 			)
@@ -8901,8 +6018,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "888a7b49-1fd3-47b7-b5a1-d7533b9e0413")
-		(property "Reference" "MX28"
-			(at 105.41 81.28 0)
+		(property "Reference" "MX27"
+			(at 105.41 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8954,164 +6071,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 66.04 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "88e75bac-9055-4760-9b40-91ca26d27656")
-		(property "Reference" "D44"
-			(at 63.246 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 68.58 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 66.04 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 66.04 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 66.04 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 66.04 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 66.04 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e337fd85-24f5-4498-8bf1-105b7c053481")
-		)
-		(pin "1"
-			(uuid "246af973-96ec-4f49-8b48-af7465d58b86")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 59.69 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8de8c443-6c6a-4eb4-90b2-e1c14883894d")
-		(property "Reference" "MX33"
-			(at 59.69 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 59.69 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 59.69 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 59.69 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8cefd77e-035e-4d03-bf5f-e9d16ca7c39d")
-		)
-		(pin "1"
-			(uuid "d51251ce-0dca-4453-bb1c-a8971c25bb97")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX33")
+					(reference "MX27")
 					(unit 1)
 				)
 			)
@@ -9332,8 +6292,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99635cb7-4b18-47ce-b3fd-f524ed64deab")
-		(property "Reference" "MX25"
-			(at 71.12 81.28 0)
+		(property "Reference" "MX24"
+			(at 71.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9385,7 +6345,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX25")
+					(reference "MX24")
 					(unit 1)
 				)
 			)
@@ -9970,75 +6930,6 @@
 		)
 	)
 	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 36.83 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b19d8340-2c2a-48f4-aacd-78c77d188625")
-		(property "Reference" "MX41"
-			(at 36.83 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 36.83 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 36.83 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 36.83 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 36.83 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "31bf11f0-7115-4437-b821-762fbbe3c50b")
-		)
-		(pin "1"
-			(uuid "4c29ca65-16a4-45fe-b56a-0b463f00c8f1")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 88.9 80.01 90)
 		(unit 1)
@@ -10136,8 +7027,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be06fd1d-c8d3-42e8-a52f-235dcd21f54c")
-		(property "Reference" "MX26"
-			(at 82.55 81.28 0)
+		(property "Reference" "MX25"
+			(at 82.55 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10189,95 +7080,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 88.9 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "be0e0bac-a9d0-47fe-b087-b5679e89a585")
-		(property "Reference" "D36"
-			(at 86.106 101.346 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 91.44 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 88.9 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 88.9 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 88.9 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 88.9 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4f1ff538-1012-4ee2-a6fd-fe4c3324f58b")
-		)
-		(pin "1"
-			(uuid "7cc7396a-2c43-49ed-9462-27620ae32da1")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D36")
+					(reference "MX25")
 					(unit 1)
 				)
 			)
@@ -10373,15 +7176,15 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 123.19 102.87 90)
+		(at 20.32 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "c112956c-6f9c-432c-9dc2-a3bbdf8eff2c")
-		(property "Reference" "D39"
-			(at 120.396 101.346 90)
+		(uuid "cd256503-958f-41ba-8546-7846b92d008a")
+		(property "Reference" "D29"
+			(at 17.526 101.346 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10390,7 +7193,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 125.73 104.1399 90)
+			(at 22.86 104.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10400,7 +7203,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 123.19 102.87 90)
+			(at 20.32 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10409,7 +7212,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 102.87 90)
+			(at 20.32 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10418,7 +7221,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 123.19 102.87 0)
+			(at 20.32 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10427,7 +7230,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 123.19 102.87 0)
+			(at 20.32 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10436,7 +7239,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 123.19 102.87 0)
+			(at 20.32 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10445,84 +7248,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "8a373fc3-4d1a-4c30-b2c2-f333f7e4ce80")
+			(uuid "d9bb9c0a-212c-42d4-9474-53acd3fc867b")
 		)
 		(pin "1"
-			(uuid "c397b16d-b01b-4537-8608-8fd38f800913")
+			(uuid "6dacd983-d8e0-47c9-b9ed-0294cb49f11d")
 		)
 		(instances
-			(project "newk-tabesque48"
+			(project "tabesco-48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 93.98 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c4b5390e-7c9c-497a-ac6f-afb07af1d840")
-		(property "Reference" "MX46"
-			(at 93.98 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 93.98 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 93.98 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 93.98 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "28156eb9-23ed-4b31-ba54-803abb1fee95")
-		)
-		(pin "1"
-			(uuid "2a3bae35-5052-4ce9-8d8e-66139b3aa66f")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX46")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -10761,7 +7495,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6812e2f-5f6d-467a-bc90-958d9b9d94b3")
-		(property "Reference" "D24"
+		(property "Reference" "D23"
 			(at 51.816 89.916 90)
 			(effects
 				(font
@@ -10834,7 +7568,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D24")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -10850,8 +7584,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7f78781-1c18-470c-94cd-d4602b67ccd2")
-		(property "Reference" "MX21"
-			(at 25.4 81.28 0)
+		(property "Reference" "MX20"
+			(at 25.4 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10903,7 +7637,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX21")
+					(reference "MX20")
 					(unit 1)
 				)
 			)
@@ -11054,7 +7788,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da30abf9-1933-4faa-bc90-c5c6c2ace6a3")
-		(property "Reference" "D26"
+		(property "Reference" "D25"
 			(at 74.676 89.916 90)
 			(effects
 				(font
@@ -11127,76 +7861,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 36.83 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e07fb655-d071-4c8f-ac21-28afc138c29f")
-		(property "Reference" "MX31"
-			(at 36.83 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 36.83 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 36.83 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "625b825d-d63f-4d36-95fa-d16b9a10eb51")
-		)
-		(pin "1"
-			(uuid "8faf1b34-526d-4257-9ce3-1d6e13ffba4e")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX31")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -11266,6 +7931,75 @@
 			(project ""
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
 					(reference "MX1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
+		(at 25.4 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7bcf05f-9f72-4e88-baaa-c54c366f1b3d")
+		(property "Reference" "MX29"
+			(at 25.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_HS"
+			(at 25.4 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+			(at 25.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
+			(at 25.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a11f5794-67bc-4819-ad58-3b94d028ee07")
+		)
+		(pin "1"
+			(uuid "54f54691-b6a9-47a1-a04b-3470bb4c5eb2")
+		)
+		(instances
+			(project "tabesco-48"
+				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
+					(reference "MX29")
 					(unit 1)
 				)
 			)
@@ -11404,251 +8138,6 @@
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
 					(reference "MX12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 20.32 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f3080048-3d3a-4045-914c-faf838fb6b8a")
-		(property "Reference" "D40"
-			(at 17.526 112.776 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 22.86 115.5699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 20.32 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 20.32 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 20.32 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 20.32 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 20.32 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e2da5299-baa4-42d2-b1a9-076c2a475773")
-		)
-		(pin "1"
-			(uuid "e678f11f-5578-475b-9414-deea44ae3e47")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Small")
-		(at 123.19 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f317d1da-9a64-4fce-b2f9-42e68e56b537")
-		(property "Reference" "D20"
-			(at 120.396 78.486 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D_Small"
-			(at 125.73 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 123.19 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 123.19 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode, small symbol"
-			(at 123.19 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 123.19 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 123.19 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "100cd018-499b-4349-b8f9-1bd31dda5d6a")
-		)
-		(pin "1"
-			(uuid "ee372470-a890-477a-9cfc-6324532f5093")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 116.84 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f6252672-c11c-4c8b-8a02-ca4bb6fc067c")
-		(property "Reference" "MX48"
-			(at 116.84 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 116.84 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 116.84 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 116.84 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8090f3e7-79fa-4df2-8e47-f3abee26baa8")
-		)
-		(pin "1"
-			(uuid "bd57dc10-4c07-49f8-b885-ae4f903b15c1")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX48")
 					(unit 1)
 				)
 			)
@@ -11946,75 +8435,6 @@
 		)
 	)
 	(symbol
-		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 48.26 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fc4b3fcd-7b56-4d4e-b5a8-0c1ee3f4ca83")
-		(property "Reference" "MX42"
-			(at 48.26 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MX_SW_HS"
-			(at 48.26 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 48.26 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 48.26 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 48.26 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1d3d8652-3810-4484-9405-ef0f6edac979")
-		)
-		(pin "1"
-			(uuid "fc582ab5-1778-4996-8eee-8e6c62b68532")
-		)
-		(instances
-			(project "newk-tabesque48"
-				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "MX42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 31.75 91.44 90)
 		(unit 1)
@@ -12023,7 +8443,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ff0e2216-3bdb-43f0-bc72-7549d69c272a")
-		(property "Reference" "D22"
+		(property "Reference" "D21"
 			(at 28.956 89.916 90)
 			(effects
 				(font
@@ -12096,7 +8516,7 @@
 		(instances
 			(project "newk-tabesque48"
 				(path "/588218a1-c895-477e-9c13-7f6d8ca7aace"
-					(reference "D22")
+					(reference "D21")
 					(unit 1)
 				)
 			)
