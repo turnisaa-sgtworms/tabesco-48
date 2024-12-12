@@ -482,7 +482,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "tabesco-31.step",
       "svg": "",
       "vrml": ""
     },
