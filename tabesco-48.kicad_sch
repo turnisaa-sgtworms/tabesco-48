@@ -1313,6 +1313,12 @@
 		(uuid "66800e31-e493-4153-9d7b-72ee359734ec")
 	)
 	(junction
+		(at 85.09 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f7bc0f4-91ef-4dcc-ae10-8fdbd3c0ad8e")
+	)
+	(junction
 		(at 119.38 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1323,12 +1329,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79e03fe8-9642-4372-8db6-7d530d797c65")
-	)
-	(junction
-		(at 20.32 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "888bf54e-ec51-4cf2-8e32-7302c1e39879")
 	)
 	(junction
 		(at 43.18 93.98)
@@ -1379,6 +1379,12 @@
 		(uuid "9673e14f-441e-4cb7-ab2b-ba611d32fb50")
 	)
 	(junction
+		(at 20.32 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bedb6ca-29de-41b1-87b7-ceedb728350d")
+	)
+	(junction
 		(at 62.23 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1389,12 +1395,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af672617-e0c9-4c81-a70c-01e21fcc4378")
-	)
-	(junction
-		(at 107.95 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bbd31385-8ec6-4d2c-8e48-15c4a6ccc34a")
 	)
 	(junction
 		(at 20.32 82.55)
@@ -1528,7 +1528,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 100.33) (xy 100.33 97.79)
+			(xy 77.47 100.33) (xy 77.47 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1655,6 +1655,16 @@
 			(type default)
 		)
 		(uuid "22f77be0-b18f-4864-97b7-b1853ec7cb6d")
+	)
+	(wire
+		(pts
+			(xy 31.75 105.41) (xy 77.47 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23c4cc2a-0660-4651-8953-cc8913a71e13")
 	)
 	(wire
 		(pts
@@ -1855,6 +1865,16 @@
 			(type default)
 		)
 		(uuid "469b723e-5a03-4097-bfe8-46857cead113")
+	)
+	(wire
+		(pts
+			(xy 19.05 105.41) (xy 20.32 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4962e36c-73c2-414b-b305-ddcb2e14d019")
 	)
 	(wire
 		(pts
@@ -2218,7 +2238,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 91.44) (xy 107.95 102.87)
+			(xy 85.09 91.44) (xy 85.09 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2488,17 +2508,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 105.41) (xy 20.32 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb513748-d6fa-4ade-b1ff-b6785be73b76")
-	)
-	(wire
-		(pts
-			(xy 100.33 97.79) (xy 102.87 97.79)
+			(xy 77.47 97.79) (xy 80.01 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2545,16 +2555,6 @@
 			(type default)
 		)
 		(uuid "d4225dfa-c2b5-4c07-b0ff-dd485cffc3e0")
-	)
-	(wire
-		(pts
-			(xy 31.75 105.41) (xy 100.33 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5b27589-0281-4800-a743-8c60634a8a3a")
 	)
 	(wire
 		(pts
@@ -2778,29 +2778,29 @@
 		(uuid "0b7bfac6-dac2-4589-b4bf-7539a282abdb")
 	)
 	(label "col4"
-		(at 49.53 36.83 0)
+		(at 24.13 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "0f931036-b0da-4f8d-aed3-743c3a8c858f")
 	)
 	(label "col5"
-		(at 49.53 39.37 0)
+		(at 24.13 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "11e9b828-c4f5-46ad-915e-1bca6397c46c")
 	)
 	(label "col1"
-		(at 24.13 49.53 180)
+		(at 24.13 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2833,24 +2833,24 @@
 		(uuid "25d9b036-d7b3-4d69-a633-7cd1e5547b6e")
 	)
 	(label "row1"
-		(at 24.13 41.91 180)
+		(at 49.53 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "2bf56bbd-50bb-44c6-a662-f8e8e33b8956")
 	)
 	(label "row0"
-		(at 24.13 44.45 180)
+		(at 49.53 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "2e6ab809-fc75-45fd-b911-b36383b7141e")
 	)
@@ -2866,13 +2866,13 @@
 		(uuid "3c829c02-36c9-496b-922b-37bef0692115")
 	)
 	(label "col6"
-		(at 49.53 41.91 0)
+		(at 24.13 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "42f1b023-3c24-4486-98f5-ac0663b58e52")
 	)
@@ -2888,13 +2888,13 @@
 		(uuid "47f09b0a-5eb8-4a17-8b7d-bc1055117874")
 	)
 	(label "row3"
-		(at 24.13 36.83 180)
+		(at 49.53 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "5625ba2d-bc14-47bc-963a-d8bef845b7ed")
 	)
@@ -2932,13 +2932,13 @@
 		(uuid "72e57034-a722-4efc-9291-3ba09540587a")
 	)
 	(label "col7"
-		(at 49.53 44.45 0)
+		(at 24.13 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7490410d-89b5-499d-897a-4092d30b82de")
 	)
@@ -2987,18 +2987,18 @@
 		(uuid "8bf0be9b-7c31-4460-9514-b098f370d5ad")
 	)
 	(label "row2"
-		(at 24.13 39.37 180)
+		(at 49.53 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "97b1a38a-4df0-43c4-8fe9-e6692222dffa")
 	)
 	(label "col0"
-		(at 24.13 46.99 180)
+		(at 24.13 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3031,24 +3031,24 @@
 		(uuid "e55300b9-13f1-4050-9a91-130b0a523c90")
 	)
 	(label "col3"
-		(at 49.53 34.29 0)
+		(at 24.13 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "ed69facc-0e4b-434d-8a7b-693ce383b819")
 	)
 	(label "col2"
-		(at 49.53 31.75 0)
+		(at 24.13 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "f20c552f-9cf3-4e8a-ae5a-4350f1e3efea")
 	)
@@ -3189,7 +3189,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 100.33 102.87 90)
+		(at 77.47 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3197,7 +3197,7 @@
 		(dnp no)
 		(uuid "03f159c1-d033-482e-a060-b5395002705b")
 		(property "Reference" "D31"
-			(at 97.536 101.346 90)
+			(at 74.676 101.346 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3206,7 +3206,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 102.87 104.1399 90)
+			(at 80.01 104.1399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3216,7 +3216,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 100.33 102.87 90)
+			(at 77.47 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3225,7 +3225,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 102.87 90)
+			(at 77.47 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3234,7 +3234,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 100.33 102.87 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3243,7 +3243,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 100.33 102.87 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3252,7 +3252,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 100.33 102.87 0)
+			(at 77.47 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4914,7 +4914,7 @@
 	)
 	(symbol
 		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 105.41 100.33 0)
+		(at 82.55 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4923,7 +4923,7 @@
 		(fields_autoplaced yes)
 		(uuid "42f1606e-5c2a-426b-93df-8161e2c046f6")
 		(property "Reference" "MX31"
-			(at 105.41 95.25 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4931,7 +4931,7 @@
 			)
 		)
 		(property "Value" "MX_SW_HS"
-			(at 105.41 95.25 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4940,7 +4940,7 @@
 			)
 		)
 		(property "Footprint" "marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
-			(at 105.41 100.33 0)
+			(at 82.55 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4949,7 +4949,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 100.33 0)
+			(at 82.55 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4958,7 +4958,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted, Kailh CPG151101S11 for Cherry MX style switches"
-			(at 105.41 100.33 0)
+			(at 82.55 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
