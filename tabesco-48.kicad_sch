@@ -2769,7 +2769,7 @@
 		(uuid "0b7bfac6-dac2-4589-b4bf-7539a282abdb")
 	)
 	(label "col4"
-		(at 24.13 46.99 180)
+		(at 24.13 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2780,7 +2780,7 @@
 		(uuid "0f931036-b0da-4f8d-aed3-743c3a8c858f")
 	)
 	(label "col5"
-		(at 24.13 44.45 180)
+		(at 24.13 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2791,7 +2791,7 @@
 		(uuid "11e9b828-c4f5-46ad-915e-1bca6397c46c")
 	)
 	(label "col1"
-		(at 49.53 46.99 0)
+		(at 49.53 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2824,7 +2824,7 @@
 		(uuid "25d9b036-d7b3-4d69-a633-7cd1e5547b6e")
 	)
 	(label "row1"
-		(at 49.53 36.83 0)
+		(at 49.53 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2835,7 +2835,7 @@
 		(uuid "2bf56bbd-50bb-44c6-a662-f8e8e33b8956")
 	)
 	(label "row0"
-		(at 49.53 39.37 0)
+		(at 49.53 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2857,7 +2857,7 @@
 		(uuid "3c829c02-36c9-496b-922b-37bef0692115")
 	)
 	(label "col6"
-		(at 24.13 41.91 180)
+		(at 24.13 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2879,7 +2879,7 @@
 		(uuid "47f09b0a-5eb8-4a17-8b7d-bc1055117874")
 	)
 	(label "row3"
-		(at 49.53 31.75 0)
+		(at 49.53 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2923,7 +2923,7 @@
 		(uuid "72e57034-a722-4efc-9291-3ba09540587a")
 	)
 	(label "col7"
-		(at 24.13 39.37 180)
+		(at 24.13 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2956,7 +2956,7 @@
 		(uuid "80deedfe-53c9-4504-b2d1-36216de50126")
 	)
 	(label "col8"
-		(at 24.13 36.83 180)
+		(at 24.13 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2978,7 +2978,7 @@
 		(uuid "8bf0be9b-7c31-4460-9514-b098f370d5ad")
 	)
 	(label "row2"
-		(at 49.53 34.29 0)
+		(at 49.53 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2989,7 +2989,7 @@
 		(uuid "97b1a38a-4df0-43c4-8fe9-e6692222dffa")
 	)
 	(label "col0"
-		(at 49.53 49.53 0)
+		(at 49.53 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3022,7 +3022,7 @@
 		(uuid "e55300b9-13f1-4050-9a91-130b0a523c90")
 	)
 	(label "col3"
-		(at 24.13 49.53 180)
+		(at 24.13 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3033,7 +3033,7 @@
 		(uuid "ed69facc-0e4b-434d-8a7b-693ce383b819")
 	)
 	(label "col2"
-		(at 49.53 44.45 0)
+		(at 49.53 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3055,7 +3055,7 @@
 		(uuid "fab8918c-5ad1-4351-bf03-652e27dd32a2")
 	)
 	(label "col9"
-		(at 24.13 34.29 180)
+		(at 24.13 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
