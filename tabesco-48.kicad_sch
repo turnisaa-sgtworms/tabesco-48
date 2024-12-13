@@ -7181,7 +7181,7 @@
 	)
 	(symbol
 		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 123.19 77.47 0)
+		(at 123.19 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7190,7 +7190,7 @@
 		(fields_autoplaced yes)
 		(uuid "b19aecc4-7bf2-45eb-bd73-2b166a563e04")
 		(property "Reference" "MX19-2"
-			(at 123.19 69.85 0)
+			(at 123.19 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7198,7 +7198,7 @@
 			)
 		)
 		(property "Value" "MX_SW_HS"
-			(at 123.19 72.39 0)
+			(at 123.19 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7338,7 +7338,7 @@
 	)
 	(symbol
 		(lib_id "marbastlib-mx:MX_SW_HS_CPG151101S11")
-		(at 13.97 77.47 0)
+		(at 13.97 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7347,7 +7347,7 @@
 		(fields_autoplaced yes)
 		(uuid "baaa3fff-6bf2-4284-b3f6-426d4831bdb9")
 		(property "Reference" "MX11-2"
-			(at 13.97 69.85 0)
+			(at 13.97 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7355,7 +7355,7 @@
 			)
 		)
 		(property "Value" "MX_SW_HS"
-			(at 13.97 72.39 0)
+			(at 13.97 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
