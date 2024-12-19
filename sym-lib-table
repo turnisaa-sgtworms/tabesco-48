@@ -4,4 +4,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "avr-arduino")(type "Legacy")(uri "C:/Users/Isac Tuner/Documents/avr-arduino-kicad-1.0-library/avr-arduino.lib")(options "")(descr ""))
 )

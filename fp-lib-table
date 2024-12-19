@@ -3,4 +3,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "marbastlib-xp-promicroish")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-xp-promicroish.pretty")(options "")(descr ""))
   (lib (name "marbastlib-xp-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-xp-various.pretty")(options "")(descr ""))
+  (lib (name "avr-arduino")(type "KiCad")(uri "C:/Users/Isac Tuner/Documents/avr-arduino-kicad-1.0-library/avr-arduino.pretty")(options "")(descr ""))
 )

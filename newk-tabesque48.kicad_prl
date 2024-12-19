@@ -64,7 +64,11 @@
       39,
       40
     ],
+<<<<<<< Updated upstream:newk-tabesque48.kicad_prl
     "visible_layers": "fffffff_ffffffff",
+=======
+    "visible_layers": "803ffff_ffffffff",
+>>>>>>> Stashed changes:tabesco-48.kicad_prl
     "zone_display_mode": 0
   },
   "git": {
