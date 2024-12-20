@@ -1,4 +1,4 @@
-24388530151265042
+24390264801864711
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97964,6 +97964,13 @@ Varistor VF
 0
 2
 2
+avr-arduino
+FTDI_Header
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
 marbastlib-mx
 LED_MX_3mm
 Add-on for regular MX-footprints with 3mm LED
